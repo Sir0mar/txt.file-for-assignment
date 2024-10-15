@@ -1,11 +1,6 @@
-user.txt
-omar,omar@mail.com ,omar,omar007,chef
-chef,peteTheChef@mail.com,chef pete,Chef10,chef
------------------------------------------------
-ingredients.txt
-22,carrot,11
-9,eggs,24
-2,milk,80
-3,tomato,54
-4,chicken,89
-1,salmon,3kg
+John Khan,johnkarim,john@mail.com,John123,admin
+Alex Bob,alexbob,alex@mail.com,Alex123,manager
+Lolita Banu,lolitabanu,lolita@mail.com,Lolita123,chef
+Mona Mia,monamia,mon@mail.com,monamia123,manager
+lolita,lolita007,lolita@mail.com,chef007,chef
+steve,steven,steve7@mail.com,stevethecheff,chef
